@@ -21,6 +21,8 @@ Sample 'OBX' imagery comes from [this USGS data release by Ritchie et al](https:
 
 ![](PBR2.jpg)
 
+# Installation
+
 0. Create a conda environment
 
 A. Conda housekeeping
@@ -37,6 +39,8 @@ We'll create a new conda environment and install packages into it from conda-for
 activate:
 
 `conda activate pbr`
+
+# Running PBR_filter
 
 1. Run the program
 
